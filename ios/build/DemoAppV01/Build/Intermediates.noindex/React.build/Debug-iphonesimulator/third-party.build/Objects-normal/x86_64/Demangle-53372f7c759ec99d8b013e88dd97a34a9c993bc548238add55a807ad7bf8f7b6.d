@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

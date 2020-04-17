@@ -1,0 +1,25 @@
+dependencies: \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Views/RCTComponent.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Views/RCTLayout.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/ios/build/DemoAppV01/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/ios/build/DemoAppV01/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/ios/build/DemoAppV01/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/ios/build/DemoAppV01/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTRootView.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Volumes/THONGHOANG/React-native/DemoAppV01/node_modules/react-native/React/Base/RCTAssert.h
